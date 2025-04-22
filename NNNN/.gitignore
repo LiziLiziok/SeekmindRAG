@@ -1,0 +1,6 @@
+files/
+new_files/
+models/
+data/
+BM25_store/
+vector_store/
